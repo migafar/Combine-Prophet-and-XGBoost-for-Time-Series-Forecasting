@@ -29,19 +29,7 @@ project/
 
 ---
 
-## Installation
 
-```bash
-pip install prophet xgboost scikit-learn pandas numpy matplotlib seaborn
-```
-
-Then open the notebook:
-
-```bash
-jupyter notebook Combine Prophet and XGBoost for Time Series Forecasting.ipynb
-```
-
----
 
 ## Dataset
 
